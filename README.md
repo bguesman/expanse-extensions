@@ -6,4 +6,4 @@ If you make an extension for Expanse, feel free to create a pull request to add 
 
 #### Underwater lux controller 
 Author: Odder Otter \
-Link: https://gist.github.com/Odder-Otter/30d1ff6f6b21cd9ad71e75312b29cde7 \
+Link: https://gist.github.com/Odder-Otter/30d1ff6f6b21cd9ad71e75312b29cde7
