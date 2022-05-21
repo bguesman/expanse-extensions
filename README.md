@@ -8,6 +8,10 @@ If you make an extension for Expanse, feel free to create a pull request to add 
 Author: Odder Otter \
 Link: https://gist.github.com/Odder-Otter/30d1ff6f6b21cd9ad71e75312b29cde7
 
+#### Shadergraph Examples
+Author: Brad Guesman \
+Link: https://github.com/bguesman/expanse-shadergraph
+
 #### Fog Blur
 Author: Brad Guesman \
 Link: https://github.com/bguesman/expanse-fog-blur
